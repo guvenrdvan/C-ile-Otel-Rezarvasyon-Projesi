@@ -1,0 +1,36 @@
+-----------------------------------------------------------------------
+Musterinin Adi Soyadi: rçidvan guven 
+Oda Numarasi: 1 
+Kalinan Kisi Sayisi: 2 
+Toplam Tutar: 1800.00TL 
+Giris Tarihi: 17:8:2022 
+Cikis Tarihi: 20:8:2022 
+-----------------------------------------------------------------------
+Musterinin Adi Soyadi: samet metin 
+Oda Numarasi: 2 
+Kalinan Kisi Sayisi: 3 
+Toplam Tutar: 2700.00TL 
+Giris Tarihi: 17:8:2022 
+Cikis Tarihi: 20:8:2022 
+-----------------------------------------------------------------------
+Musterinin Adi Soyadi: emre gÅuven 
+Oda Numarasi: 3 
+Kalinan Kisi Sayisi: 4 
+Toplam Tutar: 6000.00TL 
+Giris Tarihi: 20:8:2022 
+Cikis Tarihi: 25:8:2022 
+-----------------------------------------------------------------------
+Musterinin Adi Soyadi: safak bal 
+Oda Numarasi: 4 
+Kalinan Kisi Sayisi: 7 
+Toplam Tutar: 6300.00TL 
+Giris Tarihi: 17:8:2022 
+Cikis Tarihi: 20:8:2022 
+-----------------------------------------------------------------------
+Musterinin Adi Soyadi: burak gÅuven 
+Oda Numarasi: 5 
+Kalinan Kisi Sayisi: 5 
+Toplam Tutar: 4500.00TL 
+Giris Tarihi: 17:8:2022 
+Cikis Tarihi: 20:8:2022 
+-----------------------------------------------------------------------
